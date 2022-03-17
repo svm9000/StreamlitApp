@@ -11,5 +11,8 @@ docker image ls
 
 ### RUNNING THE IMAGE
 * We binds port 8501 of the container to TCP port 8051 of the host machine
+```bash
 docker run -p 8501:8501 dockerstreamlit:latest
+```  
+
 
