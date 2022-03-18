@@ -16,5 +16,11 @@ docker image ls
 ```bash
 docker run -p 8501:8501 dockerstreamlit:latest
 ```  
+#### Visit the running app on your local machine
+Open your browser and go to `http://localhost:8501`.
 
+### Extensions
+We can certainly explore improving the initial model for gender classification.
+
+See the [Streamlit Gallery](https://streamlit.io/gallery) for any additional extensions.
 
